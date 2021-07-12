@@ -18,4 +18,11 @@ Objetivos del módulo
 En términos generales esperamos que a lo largo de este módulo podamos:
 
  Conocer la arquitectura y funcionamiento básico de la computadora.
- Conocer a grandes rasgos el funcionamiento e interrelación de los distintos componentes del sistema.1
+ Conocer a grandes rasgos el funcionamiento e interrelación de los distintos componentes del sistema.
+
+Componentes de una computadora
+¿Qué significan los términos hardware o software? Las computadoras deben su funcionamiento a esos dos elementos básicos. El primero, como su nombre lo indica, es la parte “dura” de un sistema informático, los componentes electrónicos en sí, como placas de video, memorias, teclados, todo componente tangible que utilizamos para interactuar con nuestro ordenador. El segundo, es la parte “blanda” que proporciona las instrucciones necesarias para realizar una determinada función, como, por ejemplo, los sistemas operativos, los juegos, programas de usuario y demás. Como vemos, tanto el hardware como el software dependen el uno del otro para poder existir.
+
+
+¡Acompañanos a averiguar qué es una computadora, cuáles son sus partes y cómo interactúan entre sí!
+
