@@ -1,0 +1,4 @@
+Grupo 1: El procesador para el Cyberpunk es el de AMD Ryzen 5, ya que es el que más capacidad tiene.
+Para el Filmora vamos a utilizar el Inter I3 3230 que es de menor escala.
+Para el Office 2019 utilizaremos el mde menor potencial, que es el AMD a8.
+
