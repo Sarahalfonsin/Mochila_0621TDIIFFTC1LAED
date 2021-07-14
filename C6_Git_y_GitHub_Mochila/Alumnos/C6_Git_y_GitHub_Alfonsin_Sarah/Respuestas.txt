@@ -4,4 +4,5 @@ el hecho de ser un software propietario y ciertas desavenencias con su creador, 
 b)¿A quien pertenece actualmente Githun y por que?
 Pertenece a Microsoft ya ques segun el consejro de la compañia asegura que :" Microsoft es una plataforma que antepone a los desarrolladores y al unir fuerzas con GitHub reforzamos nuestro compromiso con la libertad, la apertura y la innovación"
 c)¿Hay otra forma que no sea la terminal para trabajar con Github?
-Si, se puede trabajar desde la pagina web
+Si, se puede trabajar desde la pagina web.
+
