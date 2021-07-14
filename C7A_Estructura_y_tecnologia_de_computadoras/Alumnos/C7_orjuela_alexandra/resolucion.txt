@@ -1,0 +1,12 @@
+CONSIGNA 1
+
+Matilda → Amd Ryzen 5, debido a que este es el que mayor número de núcleos de procesador (4) y subprocesadores (8) posee, y maneja memoria DDR4. excelente para el rendimiento de juegos
+
+Marcelo → intel i3 3230, debido a que es el que menos número de núcleos (2) y subprocesadores (4) tiene y maneja una memoria más pequeña de clase DDR3 menos eficiente que la DDR4. perfecta para el manejo que requiere poco procesamiento gráfico como la suite de office.
+
+Hermano mayor → Amd a8, debido a que a pesar que tiene un alto número de núcleos de procesador (4), maneja un número menor de subprocesadores (4) que la AMD Ryzen 5 y con una memoria igual de DDR4. por lo tanto sería perfecta para la edición de videos sin tener la necesidad de procesar interfaces 3D como en el caso de los videojuegos.
+
+
+CONSIGNA 2
+
+https://padlet.com/actar9/gnbmdk0ee8m9scio
