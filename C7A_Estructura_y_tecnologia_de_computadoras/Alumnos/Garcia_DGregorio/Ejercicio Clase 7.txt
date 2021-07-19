@@ -1,0 +1,15 @@
+Práctica comparativa
+ 
+Objetivo: hacer un análisis comparativo para resolver el problema de Matilda. En la familia somos tres hermanos y nuestro padre, que se encuentra de viaje en el exterior, nos envió de regalo tres procesadores para nuestras diferentes necesidades, yo (Matilda) le pedí uno para poder jugar al tan esperado Cyberpunk 2077, mi pequeño hermano, Marcelo, en cambio, solamente le pidió uno para ejecutar la suite de Office 2019 y, por último, mi hermano mayor le encargó uno para poder hacer ediciones de video en un programa llamado Wondershare Filmora X. Estamos confundidos debido a que no los etiqueto con nombres… Nuestro padre nos envió los siguientes procesadores:
+● Amd Ryzen 5
+ ● Amd a8
+ ● intel i3 3230 
+¿Cuál es para cada uno?
+● Amd Ryzen 5
+Será para Matilda, ya que son procesadores orientados a los juegos, tienen mayor cantidad de hilos. También posee una frecuencia más alta y están desbloqueados en caso de querer hacer overclocking para obtener un mejor rendimiento. De igual manera los requisitos para este juego exigen una tarjeta de video dedicada de mucha potencia y 16gb de memoria ram.
+
+● Intel i3 3230
+Este procesador será para que Marcelo use el Office 2019, ya que es el menos potente de las tres alternativas e igualmente es suficiente para el uso deseado.
+
+● Amd a8
+Este procesador será para el hermano mayor, quien quiere hacer edición de video en su computadora. La decisión se tomó en base a que en la página de la plataforma expresan la necesidad de tener una GPU Radeon R5 o posterior, el AMD A8 tiene R7. Además ,el intel i3 no cumplía con los requisitos mínimos de GPU integrada para tal fin. Editar video es una tarea demandante y carga mucho a la GPU, ya que esta es la encargada de hacer la renderización de imágenes, contar un una GPU acorde es primordial.
