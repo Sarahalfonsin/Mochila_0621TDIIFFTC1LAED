@@ -1,0 +1,26 @@
+Práctica comparativa
+Objetivo: hacer un análisis comparativo para resolver el problema de Matilda.
+En la familia somos tres hermanos y nuestro padre, que se encuentra de viaje en el exterior,
+nos envió de regalo tres procesadores para nuestras diferentes necesidades, yo (Matilda) le
+pedí uno para poder jugar al tan esperado Cyberpunk 2077, mi pequeño hermano, Marcelo,
+en cambio, solamente le pidió uno para ejecutar la suite de Office 2019 y, por último, mi
+hermano mayor le encargó uno para poder hacer ediciones de video en un programa
+llamado Wondershare Filmora X.
+Estamos confundidos debido a que no los etiqueto con nombres…
+Nuestro padre nos envió los siguientes procesadores:
+● Amd Ryzen 5
+● Amd a8
+● intel i3 3230
+¿Cuál es para cada uno?
+
+MATILDA:
+Amd Ryzen 5: este procesador esta de alto rendimiento para aquellos aficcionados por el juego.
+Puede contar hasta con 6 nucleos y 16MB de memoria caché.
+
+MARCELO:
+intel i3 3230: este es un procesador basico para la vida cotidiana puede contar con 2 nucleis y un cache de 3MB.
+
+HERMANO MAYOR:
+Amd a8
+ 
+https://padlet.com/actar9/gnbmdk0ee8m9scio
