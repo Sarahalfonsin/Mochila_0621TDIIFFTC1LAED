@@ -1,0 +1,3 @@
+1. Porque cada lenguaje de programacion esta escrito con logicas distintas, que no comparten con todos los sistemas operativos. Ya que estos tambien estan escritos en su propio lenguaje.
+2.VB es un software hipervisor de tipo 2.
+3.No, ya que cada una funciona en una instancia separada una de la otra, y no pueden efectuar cambios en el software de la otra.
