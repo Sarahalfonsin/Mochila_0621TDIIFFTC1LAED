@@ -1,0 +1,6 @@
+¡Por qué un lenguaje de programación solo puede utilizarse en algunos O.S. y en otros no?
+Debido a la compatibilidad de cada sistema operativo.
+¡Qué tipo de máquina virtual es virtual box?
+Es un tipo de máquina virtual para sistemas operativos.
+¡Si tengo más de una máquina virtual instalada y se rompe, afecta a las demás?
+No. Son computadoras independientes entre sí.
