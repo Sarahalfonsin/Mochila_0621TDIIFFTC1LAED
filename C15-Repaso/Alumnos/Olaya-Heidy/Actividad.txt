@@ -1,0 +1,13 @@
+1- Porque un lenguaje de programacion solo puede utilizarse en algunos sistemas operativos y 
+en otros no?
+ Por que deben ser compatibles entre ellos si no esto se necesitara de otros medios para que se puedan
+comunicar.
+
+2- Que tipo de Maquina Virtual es Virtual Box?
+   
+VirtualBox es un software para virtualización, tambien conocido como hipervisor de tipo 2, 
+que se utilizar para virtualizar sistemas operativos dentro de nuestro ordenador existente, 
+creando lo que se conoce como máquina virtual
+
+3- Si tengo mas de una maquina virtual instalada y una se rompe, esta afecta a las demas? - 
+No porque son computadoras diferentes e independientes una de otra.

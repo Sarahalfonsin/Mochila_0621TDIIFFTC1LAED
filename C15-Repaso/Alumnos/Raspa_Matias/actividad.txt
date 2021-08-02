@@ -1,0 +1,13 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no? 
+Por que depende de que el sistema operativo maneje o no esos lenguajes de programacion y sean compatibles entre si.
+
+¿Qué tipo de máquina virtual es virtualBox?
+
+En general, hay dos tipos de máquinas virtuales: VM de proceso, que separan un solo proceso, y VMs de sistema, que ofrecen una separación completa del sistema operativo y las aplicaciones de la computadora física. 
+
+Las VM del sistema dependen de los hipervisores, intermediarios que dan acceso al software a los recursos de hardware. Los grandes nombres en el espacio de los hipervisores incluyen VMware (ESX/ESXi), Intel/Linux Foundation (Xen), Oracle (MV Server para SPARC y Oracle VM Server para x86) y Microsoft (Hyper-V).
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las
+demás? ¿por qué? 
+
+No, ya que son independientes unas de otras.

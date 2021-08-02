@@ -1,0 +1,7 @@
+1- Porque los lenguajes de programacion requieren que seamos especificos 
+con las instrucciones que les damos y no aceptan variaciones en su
+interpretacion.
+2- Virtualbox es una maquina virtual de sistemas, devido a que ejecuta a una 
+computadora de manera completa.
+3- No las afecta a las demas maquinas virtuales, ya que estas son
+independientes unas de otras.
