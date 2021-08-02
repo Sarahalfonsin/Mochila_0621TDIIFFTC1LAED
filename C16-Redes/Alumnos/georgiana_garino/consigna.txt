@@ -1,0 +1,11 @@
+1. Listar los Elementos que se conectarán vía Wifi y cuales a través de cableado
+
+elementos via wifi: celulares/computadora/notebook/computadora/smart tv/ impresora
+elementos cableado: computadora/router
+
+2. Ubicar en la casa los dispositivos
+
+4. Ubicar los cables que conectarán los dispositivos cableados
+
+5. Hace falta algún repetidor wifi o PLC? 
+si, hace falta repetidores wifi de preferencia plc para que llegue a todos lados
