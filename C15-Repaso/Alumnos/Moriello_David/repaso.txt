@@ -1,0 +1,12 @@
+1_
+Los diferentes sistemas operativos tienen diferentes interfaces de programación de aplicaciones o API (por ejemplo, Linux utiliza una API diferente de Windows).
+
+El hecho de que un determinado sistema operativo se pueda ejecutar en diferentes arquitecturas de computadora no quiere decir que el software escrito para ese sistema operativo automáticamente funcione en todas las arquitecturas que soporta el sistema operativo. 
+
+
+2_
+Virtual box es una maquina virtual de sistemas.
+
+3_
+Son independientes unas de otras y con frecuencia se les hace un backup para
+evitar perdida de informacion en caso de un imprevisto.

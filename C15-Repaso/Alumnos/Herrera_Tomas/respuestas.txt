@@ -1,0 +1,3 @@
+1-  Porque cada Lenguaje esta pensado para un fin especial ya sea un sistema operativo o una logica en especial, y algunos comparten esas caracteristicas y otros no.
+2 - Virtual box es un hipervisor de tipo 2
+3 - a la otra no le pasa nada ya que son softwares independientes entre si. 
