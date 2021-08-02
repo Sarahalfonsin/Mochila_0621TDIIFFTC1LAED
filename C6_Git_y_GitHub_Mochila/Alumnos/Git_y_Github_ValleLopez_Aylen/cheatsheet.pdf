@@ -1,0 +1,44 @@
+Mostrar 
+$ ls (Lista archivos en el directorio o carpeta) 
+$ ls -a (Lista todos los archivos, incluyendo los archivos ocultos)
+$ ls -R (Muestra las carpetas y los archivos contenidos en ellos de manera recursiva) 
+$ pwd (Muestra la carpeta en la que se está trabajando actualmente)
+
+
+ Crear
+$ mkdir [Carpeta] (Crea una nueva directorio o carpeta)
+$ touch [Nombre del archivo] (Crea un nuevo archivo)
+
+
+Eliminar 
+$ rm [Nombre del archivo] (Elimina un archivo)
+$ rmdir [Nombre de la carpeta] (Elimina una carpeta vacía) 
+$ rm -r [Nombre de la carpeta] (Elimina una carpeta y su contenido)
+
+Navegación entre carpetas 
+$ cd ../ (Sube un nivel de carpeta) 
+$ cd (Cambia de carpeta) 
+$ cd/chosen/ directory (Cambia a una carpeta específica)
+
+Copiar/Mover/Renombrar 
+$ mv [ruta/archivo1] [ruta/archivo2] (Renombra archivos - archivo2 no debe existir o será sobreescrito) 
+$ mv [ruta/carpeta1] [ruta/carpeta2] (Renombra la carpeta1 como carpeta2 - carpeta 2 no debe existir) 
+$ mv [ruta/carpeta1] [ruta/carpeta2] (Mueve contenido de carpeta1 a carpeta2 - carpeta 2 debe existir) 
+
+Repositorios
+$ git init (Crea un nuevo repositorio)
+$ git config user.name [nombre del usuario] (establece el nombre del usuario)
+$ git config user.email [email del usuario] (establece email de usuario en Github)
+$ git remote add origin [url del repositorio remoto] (vincula los repositorios local y remoto)
+$ git add [nombre archivo o carpeta] (añade archivo o carpeta específico al repositorio para ser trackeado)
+$ git add . (añade todos los archivo de la carpeta donde estamos parados para ser trackeados)
+$ git commit -m [nombre del commit] (commitea un archivo o directorio)
+$ git status (verifica estado de los archivos o carpetas)
+$ git push origin [nombre de la raíz] (envía los archivos al repositorio remoto)
+$ git clone [url del repositorio remoto] (clona en una carpeta local, el contenido del repositorio remoto. Se usa cuando no se tiene ningún archivo de tal repositorio remoto.)
+$ git pull origin [nombre de la raíz] (actualiza los archivos o carpetas del repositorio remoto)
+$ git log (muestra el historial de ese archivo o carpeta)
+
+Ramas
+$ git branch [nombre de raíz] (crea una nueva rama)
+$ git checkout [nombre de raíz] (nos envía a la raiz que hayamos escrito)
