@@ -1,0 +1,17 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos
+sistemas operativos y en otros no?.
+
+Y porque si
+
+¿Qué tipo de máquina virtual es virtualBox?.
+
+Mochila virtualera
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las
+demás? ¿por qué?
+
+No, de ninguna manera
+
+Subir este archivo a la mochila del viajero desde la máquina virtual.
+
+Lo hice...

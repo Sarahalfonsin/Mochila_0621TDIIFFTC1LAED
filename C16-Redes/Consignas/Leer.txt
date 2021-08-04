@@ -5,8 +5,13 @@ Armar la red en una casa
 Debemos armar una red doméstica en una casa de dos pisos, teniendo en cuenta que los dueños, ademas de conectar una red para la familia, quieren armar una pequeña oficina para dos personas en uno de los dormitorios que no se utilizan. Los habitantes son 5 personas, todas poseen celulares que también necesitarán conexión.
 Para ello debemos:
 1. Listar los Elementos que se conectarán vía Wifi y cuales a través de cableado
+WIFI: Smart TV, Celulares, Notebook
+CABLEADO: impresora, computadoras de escritorio
+
 2. Ubicar en la casa los dispositivos
 
 4. Ubicar los cables que conectarán los dispositivos cableados
 
 5. Hace falta algún repetidor wifi o PLC? 
+Creemos que no hace falta en todo caso se deberia evaluar la conexion de los dispositivos del primer piso, 
+y en caso de querer agregar mas dispositivos seguramente haga falta un repetidor.
