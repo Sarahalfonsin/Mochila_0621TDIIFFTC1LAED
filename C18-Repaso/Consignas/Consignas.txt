@@ -1,0 +1,3 @@
+Consiste en el armado de una red para una empresa 
+
+Abrir con https://app.diagrams.net/
