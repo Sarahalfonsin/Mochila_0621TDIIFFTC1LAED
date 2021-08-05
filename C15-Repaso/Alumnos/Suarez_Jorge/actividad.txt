@@ -1,0 +1,12 @@
+1. Por que un lenguaje de programacion solo puede usarse en algunos
+ sistemas operativos y en otros no?
+-----Porque existen plataformas que no cuentan con los recursos para leer
+ciertos lenguajes de programacion, todo esto depende si el sistema operativo
+es multiplaforma o con plataforma independiente. 
+
+2. Que tipo de maquina virtual es virtualBOx?
+----- Es una maquina virtual de sistemas
+
+3. Si tengo una maquina virtual instalada y una se rompe? esto afecta a las
+demas? por que?
+----- No, porque cada maquina es independiente de la otra.
