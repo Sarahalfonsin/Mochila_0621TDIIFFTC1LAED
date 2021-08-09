@@ -1,0 +1,22 @@
+DIRECCIONES
+
+1. DIRECCIONES PRIVADAS 
+ IP : 172.29.112.1
+MASCARA DE RED :  255.255.240.0
+
+2. DIRECCIONES PUBLICAS
+ IP : 191.109.187.219
+
+3. DIRECCION MAC
+ MAC:  00-15-5D-EF-3A-DA
+
+4. ¿ La IP pública y privada de qué clase son ? 
+ PUBLICA : clase B
+ PRIVADA : clase B
+
+5. ¿ Qué información puedo obtener de la Máscara de red? , 
+ Puedo obtener si las direcciones de otros dispositivos con los que
+ quiero conectarme, estan en la red local o glabal.
+
+-- vamos a acceder a  https://macvendors.com/ y verificar que marca de placa de red tenemos.
+ Microsoft Corporation
