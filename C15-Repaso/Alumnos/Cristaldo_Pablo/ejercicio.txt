@@ -1,0 +1,6 @@
+1- Algunos lenguajes comparten caracteristicas, pero cada uno esta diseñado pensando en un fin particular.
+
+2- Es un hipervisor tipo 2, conocido como hipervisor alojado.
+
+
+3- No le sucede nada, por que no son dependientes el uno del otro.
