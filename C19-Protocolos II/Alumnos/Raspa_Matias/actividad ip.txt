@@ -1,0 +1,8 @@
+Dirección IP Pública y su Máscara de subred:Ubicada en una web llamada obtenerip y la mascara de sub red en configuracion de redes en windows.
+
+Dirección IP Privada y su Máscara de subred: Ubicada en consola de windows con el comando ipcondig /all y la mascara de sub red en configuracion de redes en windows.
+
+Dirección MAC: Ubicada en consola de windows con el comando ipcondig /all con el nombre de direccion fisica.
+
+¿ La IP pública y privada de qué clase son ?
+Son de clase 3.
