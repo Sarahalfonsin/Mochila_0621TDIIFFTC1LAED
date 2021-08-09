@@ -1,0 +1,12 @@
+Dirección MAC: 2C-F0-5D-70-75-98
+
+Dirección IP Privada: 192.165.*.***
+Máscara de subred: 255.255.255.0
+
+Dirección IP Pública: 200.127.13.17
+Máscara de subred: 255.255.255.0
+
+* Marca de placa de red: Micro-Star INTL CO., LTD.
+* La IP pública es clase B y la IP privada es clase C
+* Puedo obtener si las direcciones de otros dispositivos con los que
+quiero conectarme, estan en la red local o global.
