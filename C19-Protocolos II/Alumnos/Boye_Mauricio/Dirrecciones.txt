@@ -1,0 +1,6 @@
+¿La IP pública y privada de qué clase son ? 
+La ip publica es clase B y la ip privada es clase C
+
+¿Qué información puedo obtener de la Máscara de red?
+Puedo obtener si las direcciones de otros dispositivos con los que
+quiero conectarme, estan en la red local o global.

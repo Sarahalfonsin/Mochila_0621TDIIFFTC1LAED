@@ -1,0 +1,6 @@
+¿ La IP pública y privada de qué clase son ? 
+Ip publica: Clase B
+Ip privada: Clase C
+
+¿ Qué información puedo obtener de la Máscara de red? 
+Puedo obtener el fabricante de la tarjeta de red.
