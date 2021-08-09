@@ -1,0 +1,4 @@
+ip publica : 190.15.219.131;
+ip privada :  192.168.54.165;
+mascara de subred privada : 255.255.255.0;
+Direccion mac : 1c:91:80:f2:70:68;
