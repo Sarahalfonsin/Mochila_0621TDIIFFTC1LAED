@@ -1,0 +1,17 @@
+Para cada tipo de red debemos completar lo siguiente:
+¿Cuál es el objetivo de esta red?
+Entorno en que se utiliza.
+Nivel de seguridad.
+¿Qué usuarios pueden acceder?
+Ubicá en qué columna corresponde una WAN, MAN o LAN.
+¿Dónde utilizarías una VPN?
+En caso de necesitar un proxy, ¿en qué tipo de red lo ubicarías?
+
+Una vez finalizado el ejercicio, lo descargamos en formato PDF y lo subimos a la mochila.
+
+
+
+
+
+
+https://padlet.com/PedagogiaDH/qzl6ooaszkyiwjaf
